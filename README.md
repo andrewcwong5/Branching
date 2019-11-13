@@ -7,6 +7,7 @@
 directory to git index
 * 'git' commit -m "message" - commit
 changes to local repo
+* 'git status' - display status of local repo 
 
 ### Basic BRANCHING
 * 'git branch branchName' - Create local
